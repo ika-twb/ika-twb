@@ -11,6 +11,6 @@
 
 各位亲求求给个内推谢谢
 
-笔记库(具体学过啥) 入口: [https://github.com/ika-twb/notes.org]()
+笔记库(具体学过啥) 入口: [https://github.com/ika-twb/notes.org](https://github.com/ika-twb/notes.org)
 
 
