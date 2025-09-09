@@ -8,7 +8,7 @@
 - 折腾了 15 年 Linux，8 年 Emacs
 - 熟悉写 C, 一般写 Python, 倾向写 Bash, 最喜欢写 CommonLisp，但啥都能学啥都会写
 
-各位亲求求给个内推谢谢
+各位亲求求给个内推, 谢谢
 
 笔记库(具体学过啥) 入口: [https://github.com/ika-twb/notes.org/blob/main/README.org](https://github.com/ika-twb/notes.org/blob/main/README.org)
 
