@@ -1,16 +1,16 @@
-- 初级 SRE 工程师
-- Factory Builder @ Nauvis.
-- DOOM II Modder
+- SRE @ ZhongAn
+- Factory Builder @ Nauvis
+- DOOM II MapMaker
 
 Currently digging into:
 - Kubernetes, Prometheus, OpenTelemetry, ChaosMesh
-- Aliyun OpenAPI
-- FreeBSD
-- RISC-V
-  
+- Aliyun Cloud API / cloud-native observability
+- eBPF (Cilium, Tetragon)
+- Inference infra: vLLM, Ray Serve (learning)
+
+Tinkering:
+- FreeBSD, RISC-V
+
 Writes:
-- C, Bash, Python, Perl
-- CommonLisp, EmacsLisp, Clojure, Haskell
-- Go, Vue
-
-
+- Daily: Python, Go, Bash
+- Also: Haskell, Common Lisp, Clojure
